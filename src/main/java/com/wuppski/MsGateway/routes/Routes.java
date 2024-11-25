@@ -10,7 +10,7 @@ import org.springframework.web.servlet.function.ServerResponse;
 
 /**
  * Functional Endpoints Programming Model
- * @See <a href="https://docs.spring.io/spring-framework/reference/web/webmvc-functional.html">Functional Endpoints</a>
+ * @see <a href="https://docs.spring.io/spring-framework/reference/web/webmvc-functional.html">Functional Endpoints</a>
  */
 @Configuration
 public class Routes {
